@@ -9,5 +9,6 @@ vulhub/log4j:2.8.1
 vulhub/fastjson:1.2.24
 vulhub/redis:4.0.14
 vulhub/shiro:1.2.4
+vulhub/django:4.0.5
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
